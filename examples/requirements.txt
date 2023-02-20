@@ -3,3 +3,4 @@ matplotlib
 pandas
 torch>=1.0.0
 torchvision
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
