@@ -3,3 +3,5 @@ matplotlib
 pandas
 torch>=1.0.0
 torchvision
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
